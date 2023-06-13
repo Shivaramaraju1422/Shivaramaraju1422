@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Test ex_0_0",
+      "setup": "pip install --upgrade pip --quiet && pip install -r requirements.txt --quiet",
+      "run": "pytest -k 'ex_0_0'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test ex_0_1",
+      "setup": "",
+      "run": "pytest -k 'ex_0_1'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test ex_0_2",
+      "setup": "",
+      "run": "pytest -k 'ex_0_2'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test ex_0_3",
+      "setup": "",
+      "run": "pytest -k 'ex_0_3'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test ex_0_4",
+      "setup": "",
+      "run": "pytest -k 'ex_0_4'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test ex_0_5",
+      "setup": "",
+      "run": "pytest -k 'ex_0_5'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
